@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://rangpur.polytech.gov.bd/site-assets/images/logo.png" alt="Rangpur Polytechnic Institute official logo" width="96" />
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:312e81,50:5b21b6,100:4338ca&text=Himadri%20Shekhor%20Roy&fontColor=ffffff&fontSize=38&fontAlignY=38&animation=fadeIn" alt="Purple wave banner" width="100%" />
   <br />
@@ -14,7 +13,6 @@
   <a href="https://github.com/himadrijunior"><img src="https://img.shields.io/badge/GitHub-himadrijunior-5b21b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://pinterest.com/1011480534968384163/"><img src="https://img.shields.io/badge/Pinterest-himadrijr-6d28d9?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest profile" /></a>
   <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=himadrijunior&style=flat-square&color=6d28d9&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/himadrijunior?style=flat-square&color=5b21b6&label=FOLLOWERS" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/himadrijunior?style=flat-square&color=4338ca&label=STARS" alt="GitHub stars" />
 </div>
@@ -154,27 +152,29 @@ Leading Invokeil, a digital product and learning platform.
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=himadrijunior&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=himadrijunior&theme=midnight-purple&hide_border=true&background=0D1117&ring=A78BFA&fire=818CF8&currStreakLabel=A78BFA" alt="GitHub contribution streak" />
-  <br />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himadrijunior&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Most used programming languages" />
+  <a href="https://github.com/himadrijunior?tab=followers"><img src="https://img.shields.io/github/followers/himadrijunior?style=flat-square&label=followers&color=5b21b6" alt="Live GitHub follower count" /></a>
+  <a href="https://github.com/himadrijunior?tab=repositories"><img src="https://img.shields.io/github/stars/himadrijunior?style=flat-square&label=stars&color=4338ca" alt="Live stars across GitHub repositories" /></a>
+  <br /><br />
+  <a href="https://github.com/himadrijunior?tab=overview">View my live GitHub profile and contribution calendar</a>
 </div>
+
+The badges above use live GitHub account data. GitHub’s own profile is the source of truth for contribution activity and repository language breakdown.
 
 ---
 
 ## GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himadrijunior&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=8&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers" alt="GitHub trophies" />
-</div>
+GitHub does not provide an official trophy feed for profile READMEs. I’ve removed the unavailable third-party trophy graphic; verified repositories and activity are available on my [GitHub profile](https://github.com/himadrijunior?tab=overview).
 
 ---
 
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himadrijunior&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <a href="https://github.com/himadrijunior?tab=overview">Open GitHub’s native contribution calendar and activity overview</a>
 </div>
+
+This links directly to GitHub’s own activity data instead of a third-party graph that is currently unavailable.
 
 ---
 

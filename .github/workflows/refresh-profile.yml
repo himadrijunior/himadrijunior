@@ -1,0 +1,61 @@
+name: Refresh profile README and contribution snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "scripts/update_featured_projects.py"
+      - ".github/workflows/refresh-profile.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  featured-projects:
+    name: Refresh featured projects
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Discover and rank public repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: himadrijunior
+          GITHUB_ORGANIZATION: Invokeil
+          FEATURED_PROJECT_COUNT: "3"
+        run: python scripts/update_featured_projects.py README.md
+      - name: Commit updated project cards
+        run: |
+          if ! git diff --quiet -- README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh featured repositories"
+            git push
+          fi
+
+  contribution-snake:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate SVG animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: himadrijunior
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - name: Publish SVG to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
+          force_orphan: true

@@ -19,15 +19,6 @@
 
 ---
 
-## About
-
-I’m **Himadri Shekhor Roy**, a student at **Rangpur Polytechnic Institute** in Rangpur, Bangladesh, and the CEO and owner of **[Invokeil](https://invokeil.cfd)**. I’m interested in building useful digital products and online learning experiences, with a focus on thoughtful engineering, practical software, and product quality.
-
-**Open to:**
-
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -194,6 +185,17 @@ Building:
 Exploring:
 Open To:
 ```
+
+---
+
+## About
+
+I’m **Himadri Shekhor Roy**, a student at **Rangpur Polytechnic Institute** in Rangpur, Bangladesh, and the CEO and owner of **[Invokeil](https://invokeil.cfd)**. I’m interested in building useful digital products and online learning experiences, with a focus on thoughtful engineering, practical software, and product quality.
+
+**Open to:**
+
+
+---
 
 ---
 

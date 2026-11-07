@@ -74,13 +74,13 @@ Bilingual (Bangla/English) community-service platform of Youth Red Crescent
 </details>
 
 <details>
-<summary><strong>OPEN-AUTHKIT-STUDIO</strong> · 0 stars · 0 forks</summary>
+<summary><strong>rcyrpi_Android</strong> · 0 stars · 0 forks</summary>
 
-Open-source React and TypeScript authorization UI with safe demo mode, OAuth/OIDC redirect boundary, rebrandable SVG branding, and database adapter guidance.
+Apk প্যাকেজ রিলিজ & প্যাকেজ ডিসক্রিপশন — RCY-RPI Android (Kotlin + Jetpack Compose)
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |:--|:--|:--|:--|:--|:--|
-| TypeScript · auth-ui · authentication · authorization · cloudflare · database-adapter | 0 stars · 0 forks |  |  | Open-source React and TypeScript authorization UI with safe demo mode, OAuth/OIDC redirect boundary, rebrandable SVG branding, and database adapter guidance. | [Invokeil/OPEN-AUTHKIT-STUDIO](https://github.com/Invokeil/OPEN-AUTHKIT-STUDIO) |
+| Kotlin | 0 stars · 0 forks |  |  | Apk প্যাকেজ রিলিজ & প্যাকেজ ডিসক্রিপশন — RCY-RPI Android (Kotlin + Jetpack Compose) | [Invokeil/rcyrpi_Android](https://github.com/Invokeil/rcyrpi_Android) |
 
 </details>
 

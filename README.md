@@ -63,6 +63,17 @@
 </details>
 
 <details>
+<summary><strong>Dhara</strong> · 0 stars · 0 forks</summary>
+
+Dhara — open-source, self-hosted Supabase & Firebase alternative. A BaaS on your own free Oracle Autonomous AI DB: auth, tables, auto REST APIs, RLS, realtime, storage, SQL console & MCP server. Docker-ready, 63/63 pentest.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|:--|:--|:--|:--|:--|:--|
+| TypeScript · baas · backend-as-a-service · firebase-alternative · free-tier · mcp | 0 stars · 0 forks |  |  | Dhara — open-source, self-hosted Supabase & Firebase alternative. A BaaS on your own free Oracle Autonomous AI DB: auth, tables, auto REST APIs, RLS, realtime, storage, SQL console & MCP server. Docker-ready, 63/63 pentest. | [himadrijunior/Dhara](https://github.com/himadrijunior/Dhara) |
+
+</details>
+
+<details>
 <summary><strong>rcyrpi</strong> · 0 stars · 0 forks</summary>
 
 Bilingual (Bangla/English) community-service platform of Youth Red Crescent
@@ -70,17 +81,6 @@ Bilingual (Bangla/English) community-service platform of Youth Red Crescent
 | Stack | Scale | Performance | Security | Impact | Repository |
 |:--|:--|:--|:--|:--|:--|
 | TypeScript | 0 stars · 0 forks |  |  | Bilingual (Bangla/English) community-service platform of Youth Red Crescent | [Invokeil/rcyrpi](https://github.com/Invokeil/rcyrpi) |
-
-</details>
-
-<details>
-<summary><strong>rcyrpi_Android</strong> · 0 stars · 0 forks</summary>
-
-Apk প্যাকেজ রিলিজ & প্যাকেজ ডিসক্রিপশন — RCY-RPI Android (Kotlin + Jetpack Compose)
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|:--|:--|:--|:--|:--|:--|
-| Kotlin | 0 stars · 0 forks |  |  | Apk প্যাকেজ রিলিজ & প্যাকেজ ডিসক্রিপশন — RCY-RPI Android (Kotlin + Jetpack Compose) | [Invokeil/rcyrpi_Android](https://github.com/Invokeil/rcyrpi_Android) |
 
 </details>
 

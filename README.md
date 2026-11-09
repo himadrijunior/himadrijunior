@@ -52,6 +52,17 @@
 <!-- FEATURED_PROJECTS:START -->
 
 <details>
+<summary><strong>Dhara</strong> · 1 stars · 0 forks</summary>
+
+Open-source, self-hostable backend-as-a-service — a Supabase × Firebase hybrid on your own free Oracle Autonomous AI DB. Auth with cookie sessions, auto REST tables, RLS, realtime, storage, webhooks, SQL console, MCP server, transactional email (Resend/SMTP/OCI) — 82-check self-hack pentest ships in-repo.
+
+| Stack | Scale | Performance | Security | Impact | Repository |
+|:--|:--|:--|:--|:--|:--|
+| TypeScript · baas · backend-as-a-service · firebase-alternative · free-tier · mcp | 1 stars · 0 forks |  |  | Open-source, self-hostable backend-as-a-service — a Supabase × Firebase hybrid on your own free Oracle Autonomous AI DB. Auth with cookie sessions, auto REST tables, RLS, realtime, storage, webhooks, SQL console, MCP server, transactional email (Resend/SMTP/OCI) — 82-check self-hack pentest ships in-repo. | [himadrijunior/Dhara](https://github.com/himadrijunior/Dhara) |
+
+</details>
+
+<details>
 <summary><strong>Movies-By-Invokeil</strong> · 1 stars · 1 forks</summary>
 
 🎬 Watch & discover movies, TV & anime — fast, private, free. No account, local-first, typo-tolerant smart search, AI recommendations, edge-cached on Cloudflare. Next.js 16 + Workers + KV + R2.
@@ -59,17 +70,6 @@
 | Stack | Scale | Performance | Security | Impact | Repository |
 |:--|:--|:--|:--|:--|:--|
 | HTML · cloudflare-kv · cloudflare-r2 · cloudflare-workers · glassmorphism · local-first | 1 stars · 1 forks |  |  | 🎬 Watch & discover movies, TV & anime — fast, private, free. No account, local-first, typo-tolerant smart search, AI recommendations, edge-cached on Cloudflare. Next.js 16 + Workers + KV + R2. | [Invokeil/Movies-By-Invokeil](https://github.com/Invokeil/Movies-By-Invokeil) |
-
-</details>
-
-<details>
-<summary><strong>Dhara</strong> · 0 stars · 0 forks</summary>
-
-Dhara — open-source, self-hosted Supabase & Firebase alternative. A BaaS on your own free Oracle Autonomous AI DB: auth, tables, auto REST APIs, RLS, realtime, storage, SQL console & MCP server. Docker-ready, 63/63 pentest.
-
-| Stack | Scale | Performance | Security | Impact | Repository |
-|:--|:--|:--|:--|:--|:--|
-| TypeScript · baas · backend-as-a-service · firebase-alternative · free-tier · mcp | 0 stars · 0 forks |  |  | Dhara — open-source, self-hosted Supabase & Firebase alternative. A BaaS on your own free Oracle Autonomous AI DB: auth, tables, auto REST APIs, RLS, realtime, storage, SQL console & MCP server. Docker-ready, 63/63 pentest. | [himadrijunior/Dhara](https://github.com/himadrijunior/Dhara) |
 
 </details>
 
